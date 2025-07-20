@@ -1,2 +1,8 @@
 # Ignore all CSV files
 *.csv
+
+# But don't ignore this one specific CSV file
+!data_viz1.csv
+
+
+.venv

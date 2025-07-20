@@ -1,7 +1,5 @@
-import streamlit as st
+import streamlit as st 
 
-st.set_page_config(
-    page_title= "hello"
-)
+st.set_page_config(page_title= "homepage")
 
-st.write("Hello , my name is vinayak")
+st.title("Home Page")
