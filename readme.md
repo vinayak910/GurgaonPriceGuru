@@ -54,10 +54,10 @@ Explore Gurgaon’s property market trends:
 
 ## 🛠️ How to Run Locally
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/GurgaonPriceGuru.git
+git clone https://github.com/vinayak910/GurgaonPriceGuru.git
 cd GurgaonPriceGuru
 
 python -m venv .venv
