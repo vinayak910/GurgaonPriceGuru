@@ -1,7 +1,9 @@
 # 🏙️ Gurgaon Price Guru
 
 Gurgaon Price Guru is a powerful and easy-to-use Streamlit web app designed for **real estate price prediction** and **property market analysis** in **Gurgaon**. Whether you're a homebuyer, property investor, or data enthusiast, this app offers **AI-driven insights** to help you make smarter decisions.
+## 🌐 Live Demo
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gurgaonpriceguru.streamlit.app/)
 ---
 
 ## 🚀 Features
